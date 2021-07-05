@@ -26,7 +26,7 @@
 }
 
 #banner-container img {
-  margin-right: -15px;
+  margin-right: 0;
 }
 
 #form-container {
@@ -42,7 +42,7 @@
 #screenshots {
   position: absolute;
   top: 98px;
-  left: 423px;
+  left: 408px;
   height: 430px;
   width: 244px;
   border: 2px solid #000;
