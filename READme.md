@@ -23,4 +23,4 @@ HTML and CSS.
 
 See in:<a href="https://ds-instagram-homepage.netlify.app/"> Instragram Home Page</a>
 
-![project_view](https://github.com/deborasuzuki/Sunnyside-Agency/blob/main/Project%20View.png)
+![project_view](https://github.com/deborasuzuki/Instagram-Home-Page/blob/master/Project%20View.png)
